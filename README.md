@@ -43,7 +43,7 @@ Each *manufacturer* has a **name** and a **country.**
 + <a style="color:#ffed3a; text-decoration: none; font-size: 22px; font-weight: bold;" href="https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.9.2">JUnit Jupiter API</a>
 
 ## 🔧 Startup instructions
-1. Download the code from <a href="">**GitHub**</a> and save it to your computer.
+1. Download the code from <a href="https://github.com/ivan-vovnyanko/taxi-service/archive/refs/heads/develop.zip">**GitHub**</a> and save it to your computer.
 2. Now we are **setting up your local database based on MySql:**
   - **Install MySql** on your device, you can find information on how to set it up during installation on the network
     (<a href="https://dev.mysql.com/downloads/installer/">***Windows***</a> or <a href="https://dev.mysql.com/doc/refman/8.0/en/macos-installation.html">***MacOS***</a>).
