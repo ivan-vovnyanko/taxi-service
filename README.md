@@ -5,16 +5,6 @@ The application uses version 11 of Java.</br>
 The launch and operation of the application is carried out using the **Tomcat** or **SmartTomcat.**</br>
 The application has a built-in **logger** that was created for convenient fixing of bugs.</br>
 
-## Table of contents
-- [**Functional**]()
-    - [**Driver**]()
-    - [**Car**]()
-    - [**Manufacturer**]()
-- [**Application link**]()
-- [**Used technologies**]()
-- [**Startup instructions**]()
-- [**Structure**]()
-
 ## ⚙️ Functional  
 
 **Below we will describe what tasks this web application performs.**
